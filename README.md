@@ -16,7 +16,6 @@ In this section, I classified images of various handwritten digits from the MNIS
 # enhancement_methods
 In this section, I examined different image enhancement methods:
 1. Histogram equalization
-2.1: The first method for ACE
-2.2: The second method for ACE
-3: CLAHE (not using opencv)
-4: CLAHE (using opencv)
+2. The first and second method for ACE
+3. CLAHE (not using opencv)
+4. CLAHE (using opencv)
