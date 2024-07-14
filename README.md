@@ -19,3 +19,8 @@ In this section, I examined different image enhancement methods:
 2. The first and second method for ACE
 3. CLAHE (not using opencv)
 4. CLAHE (using opencv)
+# salt-and-pepper_noise
+In this section, I first added salt-and-pepper noise to the input image. Then, I tried to remove the noise using three filters:
+1. Averaging Blurring
+2. Median Blurring
+3. Gaussian Blurring
