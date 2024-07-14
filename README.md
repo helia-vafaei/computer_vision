@@ -15,8 +15,8 @@ The SAM (Segment Anything Model) is a model for image segmentation that produces
 In this section, I classified images of various handwritten digits from the MNIST dataset using shape descriptors (Hu moments) and a machine learning model.
 # enhancement_methods
 In this section, I examined different image enhancement methods:
-a. Histogram equalization
-b.1: The first method for ACE
-b.2: The second method for ACE
-b: CLAHE (not using opencv)
-c: CLAHE (using opencv)
+1. Histogram equalization
+2.1: The first method for ACE
+2.2: The second method for ACE
+3: CLAHE (not using opencv)
+4: CLAHE (using opencv)
