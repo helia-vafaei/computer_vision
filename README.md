@@ -7,4 +7,5 @@ In this section, I implemented the Canny edge detector. The Canny edge detection
 3. Non-maximum suppression
 4. Double thresholding
 5. Edge tracking by hysteresis
-
+# morphological_knowledge
+In this section, without using the built-in library functions and by applying morphological knowledge, I extracted the skeletons of the images. Then, by saving the steps of skeleton extraction, I reconstructed the original images from the skeletons.
